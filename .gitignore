@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Model / large files
+*.bin
+*.pt
+*.h5
+
+# Logs and artifacts
+logs/
+mlruns/
+.DS_Store
