@@ -1,0 +1,4 @@
+Large language models (LLMs) like GPT or Llama are powerful tools for natural language understanding.
+However, their reasoning is often opaque. Frameworks such as LangChain simplify building apps but
+abstract internal decision logic. The Model Context Protocol (MCP) offers an alternative — defining
+explicit session, context, and action layers for transparent orchestration. This example compares both styles.
